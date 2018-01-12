@@ -1,1 +1,1 @@
-web: gunicorn SdlFlaskProject:app
+web: gunicorn SDLFlaskProject:app
